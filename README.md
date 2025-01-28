@@ -20,8 +20,3 @@ Student @ Panimalar Engineering College
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-ACER_ALG_gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12th_12450H-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
-
-![Vinith Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinithkumar-d2005&theme=dark&show_icons=true&&hide=issues,contribs)
-
-
-[![Vinith kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinithkumar-d2005&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
